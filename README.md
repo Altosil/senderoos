@@ -11,7 +11,8 @@ Altosil/Altosil is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 --->
 El formato principal de la idea es el siguiente:
-¿Te gusta subir a las montañas?
-¿No sabes como hacerlo?
-¿Te gustaría que alguien te enseñase el camino?
-¿Prefieres que te envie el track del mismo?
+- ¿Te gusta subir a las montañas?
+- ¿No sabes como hacerlo?
+- ¿Te gustaría que alguien te enseñase el camino?
+- ¿Prefieres que te envie el track del mismo?
+
